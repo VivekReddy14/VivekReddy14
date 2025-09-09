@@ -14,8 +14,23 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there, I’m Vivek Reddy  
 
-I’m a **Full-Stack Software Developer** with 3+ years of experience building scalable applications across fintech, healthcare, and freelance projects.  
-Currently pursuing my **Master of Information Technology** at RMIT University, Melbourne.  
+# 👋 Hi, I’m Vivek Reddy  
+
+I’m a **Full-Stack Software Developer** with 3+ years of professional experience building scalable and impactful software solutions across fintech, healthcare, and freelance domains.  
+
+My journey started with a strong engineering foundation at **BITS Pilani**, where I explored IoT, embedded systems, and data-driven applications. Over the years, I’ve worked in **fast-paced startups** and **client projects**, contributing to products that reached thousands of users.  
+
+I thrive in environments where I can design **end-to-end solutions** — from crafting clean, responsive user interfaces to engineering reliable backends and optimizing databases for performance. I’m especially interested in **API-driven platforms, cloud-native applications, and analytics dashboards** that turn data into actionable insights.  
+
+Currently, I’m pursuing a **Master of Information Technology at RMIT University, Melbourne**, where I’m sharpening my expertise in software engineering, cloud computing, and data analytics. Alongside academics, I continue building projects and freelancing, applying what I learn in real-world scenarios.  
+
+---
+
+## 🌟 What I’m Passionate About
+- Building software that improves **user experience and operational efficiency**  
+- Exploring **scalable architectures** for web and mobile applications  
+- Integrating APIs and systems to enable seamless workflows  
+- Mentoring and collaborating in team environments  
 
 ---
 
@@ -28,17 +43,17 @@ Currently pursuing my **Master of Information Technology** at RMIT University, M
 ---
 
 ## 💼 Experience Highlights
-- **Freelance Developer** (AUS): Built a centralized POS system integrating UberEats, DoorDash & Menulog APIs, plus automated daily sales reporting dashboards.  
-- **Full Stack Developer @ Zenda** (India): Delivered **Autopay** feature (+16% conversions), migrated Angular 8 → 16, and modernized mobile stack with Capacitor.  
-- **SDE @ Medibuddy** (India): Enhanced order tracking workflows (65% → 84% success rate) and cut manual processing time by 40% with Retool tools.  
+- **Freelance Developer (AUS):** Built a POS tool integrating UberEats, DoorDash & Menulog APIs; automated sales dashboards saving 80% manual work.  
+- **Full Stack Developer @ Zenda (India):** Developed Autopay feature (+16% conversions), migrated Angular 8 → 16, modernized mobile stack with Capacitor.  
+- **SDE @ Medibuddy (India):** Improved order tracking workflows (65% → 84% success), and built internal tools with Retool cutting processing time by 40%.  
 
 ---
 
 ## 📚 Notable Projects
-- **Voting System (Python, OpenCV):** Facial recognition–based authentication with secure SQL backend.  
-- **ERP Integration:** Automated data sync between HubSpot & NetSuite using SuiteScript + Node.js.  
-- **Book Rental System (Python):** Multi-level rental app with membership tiers, rewards, and analytics.  
-- **RoadRegistry Platform (Java, Maven):** Implemented core validation functions with 15+ JUnit tests.  
+- **Voting System (Python, OpenCV):** Secure facial recognition voting system with SQL backend.  
+- **ERP Integration:** Automated HubSpot ↔ NetSuite workflows with SuiteScript + Node.js.  
+- **Book Rental System (Python):** Multi-tier membership system with rewards, analytics, and OOP design.  
+- **RoadRegistry Platform (Java, Maven):** Core functions with validation + 15 JUnit test cases for reliability.  
 
 ---
 
@@ -49,10 +64,10 @@ Currently pursuing my **Master of Information Technology** at RMIT University, M
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: [vivek.chereddy914@gmail.com](mailto:vivek.chereddy914@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/VivekReddy14](https://linkedin.com/in/VivekReddy14)  
-- 🖥 GitHub: [github.com/VivekReddy14](https://github.com/VivekReddy14)  
+- 📧 [vivek.chereddy914@gmail.com](mailto:vivek.chereddy914@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/VivekReddy14)  
+- 🖥 [GitHub](https://github.com/VivekReddy14)  
 
 ---
 
-✨ Always curious, always building — open to collaborations and internship opportunities in software development.
+✨ Outside of coding, I enjoy experimenting with new tech stacks, following global startup ecosystems, and exploring Melbourne’s food scene 🍜☕. Always open to **collaborations, internships, and innovative projects** where I can make an impact.
