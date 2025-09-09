@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **VivekReddy14/VivekReddy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I’m Vivek Reddy  
+# 👋 Hi there, I’m Vivek Reddy  
 
 I’m a **Full-Stack Software Developer** with 3+ years of experience building scalable applications across fintech, healthcare, and freelance projects.  
 Currently pursuing my **Master of Information Technology** at RMIT University, Melbourne.  
