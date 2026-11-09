@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I’m Vivek Reddy  
 
-I’m a **Full-Stack Software Developer** with 3+ years of professional experience building scalable and impactful software solutions across fintech, healthcare, and freelance domains.  
+I’m a **Full-Stack Software Developer** with 3 years of professional experience building scalable and impactful software solutions across fintech, healthcare, and freelance domains.  
 
 My journey started with a strong engineering foundation at **BITS Pilani**, where I explored IoT, embedded systems, and data-driven applications. Over the years, I’ve worked in **fast-paced startups** and **client projects**, contributing to products that reached thousands of users.  
 
